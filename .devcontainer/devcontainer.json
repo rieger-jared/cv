@@ -1,0 +1,5 @@
+{
+    "image": "tianon/latex",
+    // "forwardPorts": [3000],
+    "extensions": ["james-yu.latex-workshop"]
+  }
